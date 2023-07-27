@@ -14,17 +14,17 @@
   <script src="js/structure.js"></script>
     <div class="form">
         <form action="form">
-            <label for="nam">First nam</label>
-            <input id="nam" type="text" placeholder="First nam"> <br>
+            <label for="nam">First name</label>
+            <input id="nam" type="text" placeholder="Your first name"> <br>
 
-            <label for="nam2">last nam</label>
-            <input id="nam2" type="text" placeholder="last nam"> <br>
+            <label for="nam2">Last name</label>
+            <input id="nam2" type="text" placeholder="Your last name"> <br>
 
             <label for="mail">E-mail</label>
-            <input id="mail" type="text" placeholder="First nam"> <br>
+            <input id="mail" type="text" placeholder="Your email"> <br>
 
             <input type="submit" id="submit">
-           <button id="google"><img class="img1" src="img/google.png" alt="">   sincrire avec google</button>
+           <button id="google"><img class="img1" src="img/google.png" alt="">   Submit with google</button>
         </form>
     </div>
 </body>
