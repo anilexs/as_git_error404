@@ -70,19 +70,25 @@ body{
     height: 900px;
     align-items: center;
     display: flex;
+    /* michel intervention */
+
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     color: white;
 }
+
 input{
     margin-bottom: 20px;
     font-size: 20px;
     border-radius: 10px;
     background-color: transparent;
+     /* michel */
+     text-align: center;
 }
 label{
     color: black;
     font-size: 30px;
+    
 }
 #nam{
     margin-left: 13px;
@@ -126,4 +132,9 @@ button{
   bottom: 200px;
   right: 250px;
   width: 200px;
+}
+
+.alignement{
+    display: flex;
+    justify-content: space-between;
 }
