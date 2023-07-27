@@ -25,7 +25,9 @@ setTimeout(function() {
           'right': '0px' 
         }, 3000);
       }, 1000); 
+ var nouvelleDiv = $('<div>Je suis une nouvelle div</div>');
+      nouvelleDiv.addClass('bubble');
 
-setTimeout(function() {
-    console.log("ready");
-      }, 4000); 
+      setTimeout(function() {
+        $('body').append(nouvelleDiv);
+      }, 4000);
