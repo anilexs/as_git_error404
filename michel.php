@@ -19,15 +19,12 @@
     <div class="form">
         <form action="form">
 
-            <div class="alignement">
                 <label for="nam">First name</label>
                 <input id="nam" type="text" placeholder="Your first name"> <br>
-            </div>
 
-            <div class="alignement">
                 <label for="nam2">Last name</label>
                 <input id="nam2" type="text" placeholder="Your last name"> <br>
-            </div>
+                
 
                 <label for="mail">E-mail</label>
                 <input id="mail" type="text" placeholder="Your email"> <br>
