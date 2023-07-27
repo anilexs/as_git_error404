@@ -9,7 +9,11 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="img/silica_help.png" alt="" id="help">
+    <div class="helpDiv">
+        <img src="img/silica_help.png" alt="" id="help">
+        <!-- <div class="bubble">hello dedfefefefefefefe</div> -->
+        
+    </div>
     <div class="sakura"></div>
   <script src="js/structure.js"></script>
     <div class="form">
